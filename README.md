@@ -44,7 +44,3 @@ Building AI chatbots and RAG (Retrieval-Augmented Generation) systems with AWS s
 ## 📫 Connect with me
 - LinkedIn: www.linkedin.com/in/annalisa-egidi
 - Instagram: @egidiannalisa
-
-## Stats
-<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egidi-A&hide_progress=true&&theme=highcontrast"/>
-<img align=centre src="https://github-readme-stats.vercel.app/api?username=Egidi-A&show_icons=true&theme=highcontrast&hide_title=true&hide=stars" />
