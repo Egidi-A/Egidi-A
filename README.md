@@ -1,5 +1,6 @@
 # ABOUT ME
 - Full-stack developer working for Analytics team in Miriade srl (Italy)
+- Bachelor's degree in Computer Science from UniPD
 - In my free time I also do things like being on Spotify: <a href="https://open.spotify.com/album/1TjaJGJPNVWiccZotRTZMg?si=VKAWJT7ZTouZkIgEoYMx7Q">Rain - The Winter Sun</a>
 - And to chill out, some of my exotic walks: Kungsleden, Camino de Santiago and Via degli Dei 🏔️
 
@@ -40,6 +41,9 @@ Building AI chatbots and RAG (Retrieval-Augmented Generation) systems with AWS s
 - **IDEs:**
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 	<img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" />
+
+## 🎓 Fun fact
+My bachelor thesis was about building an automated migrator from COBOL to Java (yes, COBOL)
 
 ## 📫 Connect with me
 - LinkedIn: www.linkedin.com/in/annalisa-egidi
